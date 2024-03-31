@@ -48,7 +48,7 @@ const Hook1 = () => {
                 </ModalBody>
                 <ModalFooter>
                     <Button color="primary" onClick={toggle}>
-                        Mua ngay
+                        Dang ky
                     </Button>
                     <Button color="secondary" onClick={toggle}>
                         Cancel
